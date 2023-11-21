@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+li{
+    display: inline;
+    margin-right: 50px;
+}
+.one{
+    background-color: olive;
+    padding: 20px;
+}
+.two{
+    background-color:gray;
+}
+
+.round-image {
+    border-radius: 50%;
+  }
+#id{ 
+    display: none;
+}
+#gh{
+    display: inline;
+    padding: 20px;
+}
+div{
+    display: inline;
+    padding: 20px;
+}
